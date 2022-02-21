@@ -4,6 +4,8 @@
 # Only use dates between 2007-02-01 and 2007-02-02
 # Missing values are set as "?"
 
+setwd("[put your working directory here]")
+
 #### call necessary libraries ####
 library(data.table)
 
